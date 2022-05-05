@@ -17,7 +17,9 @@ function ProductScreen({ match }) {
         }
         fetchProduct()
 
+
         },[])
+
 
     return (
         <div>
